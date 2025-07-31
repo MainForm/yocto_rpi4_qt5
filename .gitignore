@@ -54,4 +54,8 @@ CMakeUserPresets.json
 .history
 .ionide
 
+### Yocto proejct ###
+build-rpi4/cache
+build-rpi4/*.log
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,cmake,visualstudiocode
