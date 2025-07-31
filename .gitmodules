@@ -2,3 +2,11 @@
 	path = poky
 	url = git://git.yoctoproject.org/poky
 	branch = scarthgap
+[submodule "layer/meta-openembedded"]
+	path = layer/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = scarthgap
+[submodule "layer/meta-raspberrypi"]
+	path = layer/meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = scarthgap
