@@ -10,3 +10,7 @@
 	path = layer/meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
 	branch = scarthgap
+[submodule "layer/meta-qt5"]
+	path = layer/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+	branch = scarthgap
