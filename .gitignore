@@ -36,6 +36,7 @@ CMakeUserPresets.json
 .nfs*
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -57,5 +58,6 @@ CMakeUserPresets.json
 ### Yocto proejct ###
 build-rpi4/cache
 build-rpi4/*.log
+build-rpi4/*.lock
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,cmake,visualstudiocode
