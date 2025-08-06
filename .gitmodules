@@ -17,3 +17,6 @@
 [submodule "layer/meta-qt5-config"]
 	path = layer/meta-qt5-config
 	url = https://github.com/MainForm/meta-qt5-config.git
+[submodule "layer/meta-kernel_module"]
+	path = layer/meta-kernel_module
+	url = https://github.com/MainForm/meta-kernel_module
